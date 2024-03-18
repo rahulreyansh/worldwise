@@ -15,7 +15,6 @@ function CityItem({ city }) {
   const { cityName, emoji, date, id, position } = city;
 
   function handleDeleteCity(e) {
-    console.log(e);
     e.preventDefault();
     deleteCity(id);
   }

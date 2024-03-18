@@ -34,17 +34,6 @@
       }
     },
     {
-      "id": "6aed",
-      "cityName": "Farrukhnagar",
-      "country": "India",
-      "date": "2024-03-17T12:37:42.962Z",
-      "notes": "",
-      "position": {
-        "lat": "28.34306490482549",
-        "lng": "76.86035156250001"
-      }
-    },
-    {
       "id": "b18d",
       "cityName": "Bairat",
       "country": "India",
@@ -119,6 +108,28 @@
       "position": {
         "lat": "22.573438264572406",
         "lng": "87.56103515625"
+      }
+    },
+    {
+      "id": "2122",
+      "cityName": "Riguepeu",
+      "country": "France",
+      "date": "2024-03-18T16:35:43.823Z",
+      "notes": "",
+      "position": {
+        "lat": "43.6599240747891",
+        "lng": "0.32958984375000006"
+      }
+    },
+    {
+      "id": "deda",
+      "cityName": "Pontgibaud",
+      "country": "France",
+      "date": "2024-03-18T16:35:49.485Z",
+      "notes": "",
+      "position": {
+        "lat": "45.82879925192134",
+        "lng": "2.8564453125000004"
       }
     }
   ]
