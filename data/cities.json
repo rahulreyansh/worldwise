@@ -1,0 +1,125 @@
+{
+  "cities": [
+    {
+      "id": "8ae7",
+      "cityName": "Pedrajas de San Esteban",
+      "country": "Spain",
+      "date": "2024-03-17T11:36:42.265Z",
+      "notes": "",
+      "position": {
+        "lat": "41.343824581185714",
+        "lng": "-4.570312500000001"
+      }
+    },
+    {
+      "id": "070e",
+      "cityName": "Munilla",
+      "country": "Spain",
+      "date": "2024-03-17T12:25:31.231Z",
+      "notes": "",
+      "position": {
+        "lat": "42.17968819665963",
+        "lng": "-2.3291015625000004"
+      }
+    },
+    {
+      "id": "840a",
+      "cityName": "Robledo de Chavela",
+      "country": "Spain",
+      "date": "2024-03-17T12:28:51.885Z",
+      "notes": "",
+      "position": {
+        "lat": "40.53050177574321",
+        "lng": "-4.240722656250001"
+      }
+    },
+    {
+      "id": "6aed",
+      "cityName": "Farrukhnagar",
+      "country": "India",
+      "date": "2024-03-17T12:37:42.962Z",
+      "notes": "",
+      "position": {
+        "lat": "28.34306490482549",
+        "lng": "76.86035156250001"
+      }
+    },
+    {
+      "id": "b18d",
+      "cityName": "Bairat",
+      "country": "India",
+      "date": "2024-03-17T12:37:42.962Z",
+      "notes": "",
+      "position": {
+        "lat": "27.52775820686191",
+        "lng": "76.025390625"
+      }
+    },
+    {
+      "id": "7f81",
+      "cityName": "Harnaut",
+      "country": "India",
+      "date": "2024-03-17T12:43:29.091Z",
+      "notes": "",
+      "position": {
+        "lat": "25.363882272740256",
+        "lng": "85.60546875000001"
+      }
+    },
+    {
+      "id": "4bed",
+      "cityName": "Berzocana",
+      "country": "Spain",
+      "date": "2024-03-17T19:01:02.884Z",
+      "notes": "",
+      "position": {
+        "lat": "39.487084981687495",
+        "lng": "-5.493164062500001"
+      }
+    },
+    {
+      "id": "55c2",
+      "cityName": "Barrax",
+      "country": "Spain",
+      "date": "2024-03-18T14:50:30.082Z",
+      "notes": "",
+      "position": {
+        "lat": "39.095962936305476",
+        "lng": "-2.2192382812500004"
+      }
+    },
+    {
+      "id": "727e",
+      "cityName": "Al ‘Udayd",
+      "country": "Saudi Arabia",
+      "date": "2024-03-18T14:51:12.112Z",
+      "notes": "",
+      "position": {
+        "lat": "20.797201434307",
+        "lng": "54.03076171875001"
+      }
+    },
+    {
+      "id": "aae6",
+      "cityName": "Baoshan",
+      "country": "China",
+      "date": "2024-03-18T14:51:30.849Z",
+      "notes": "",
+      "position": {
+        "lat": "24.80668135385199",
+        "lng": "99.07470703125001"
+      }
+    },
+    {
+      "id": "be42",
+      "cityName": "Keshpur",
+      "country": "India",
+      "date": "2024-03-18T14:51:42.144Z",
+      "notes": "",
+      "position": {
+        "lat": "22.573438264572406",
+        "lng": "87.56103515625"
+      }
+    }
+  ]
+}
